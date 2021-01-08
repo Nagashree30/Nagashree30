@@ -1,0 +1,41 @@
+h1{
+    color: white;
+    background-color: black;
+    
+}
+div p{
+    color: black;
+}
+.pos{
+    color: palevioletred;
+}
+
+.a{
+    width:20%;
+    height:100%;
+    float: left;
+    
+   
+}
+li{
+    list-style-type: none; 
+     margin: 0%;
+    padding: 0%;
+    color: black;
+}
+ul{
+  
+    margin: 0;
+    padding: 0;
+  }
+  
+.b{
+    width:80%;
+    height:100%;
+    float: right;
+
+}
+li a{
+    list-style-type: none;
+    text-decoration: none;
+}
